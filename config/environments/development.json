@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "db": {
+    "username": "root",
+    "password": "shah0344@",
+    "name": "practice",
+    "host": "127.0.0.1"
+  }
+}
